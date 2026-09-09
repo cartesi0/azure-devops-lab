@@ -136,4 +136,4 @@ Questo laboratorio mi ha permesso di capire meglio come collegare un gruppo Micr
 
 La parte più importante è stata distinguere il ruolo assegnato direttamente al gruppo FinOps dal ruolo Owner che il mio account eredita dalla subscription.
 
-Ho inoltre verificato nella pratica il funzionamento di budget e resource lock, che servono rispettivamente al controllo dei costi e alla protezione delle risorse da cancellazioni accidentali.cd ~/workspace/azure-devops-lab
+Ho inoltre verificato nella pratica il funzionamento di budget e resource lock, che servono rispettivamente al controllo dei costi e alla protezione delle risorse da cancellazioni accidentali.
