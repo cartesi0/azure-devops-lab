@@ -56,4 +56,4 @@ Il cleanup viene eseguito soltanto dopo aver completato verifiche ed evidenze: r
 ## Risultato finale
 
 - nessun segreto pubblicato: **verificato**; account key, password, token e URL SAS non sono presenti nel file;
-- hash abbreviato e messaggio del commit: registrati nel repository dopo la pubblicazione della consegna.
+- hash abbreviato e messaggio del commit: `e6149c6` — `Completa laboratorio autonomo UD04 Azure Storage`.
